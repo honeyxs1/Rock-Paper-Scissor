@@ -1,1 +1,3 @@
-# Rock-Paper-Scissor
+# Rock-Paper-Scissors
+
+I have made a rock-paper-scissors game using the basic-javascript concepts...
